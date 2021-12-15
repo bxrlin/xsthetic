@@ -1,0 +1,64 @@
+/**
+ * @name Trashesthetic
+ * @version 1.0
+ * @author TheCommieAxolotl#6898 
+ * @recreated Bxrlin#7575
+ * @authorId 538487970408300544
+ * @MyId 852568620012797972
+ * @description A Smooth, Dark Aesthetic Theme
+ * @source https://github.com/Heysaksham/Trashesthetic/tree/main
+*/
+
+/* Imports */ 
+@import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
+@import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Imports/UserBadges.css");
+@import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Imports/InviteRedesign.css");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;200;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source Code Pro:wght@550&display=swap");
+
+/* Source */
+@import url("https://raw.githubusercontent.com/Heysaksham/Trashesthetic/main/Trashesthetic.css");
+
+:root {
+    --version1_0_3: none;
+    --text-normal: #dcddde;
+    --text-muted: #212121;
+    --text-link: #6e6af6;
+    --text-positive: #50dc7d;
+    --text-warning: #8D4949;
+    --text-danger: #8D4949;
+    --text-brand: #6E6AF6;
+    --interactive-normal: #b9bbbe;
+    --interactive-hover: #dcddde;
+    --interactive-active: #C9CED0;
+    --interactive-muted: #6d6e6f;
+    --background-primary: #0c0909;
+    --background-secondary: #0c0909;
+    --background-secondary-alt: #17161B;
+    --background-tertiary: #0c0909;
+    --background-accent: #4f545c;
+    --background-floating: #0c0909;
+    --channeltextarea-background: #0c0909;
+    --info-positive-text: #fff;
+    --info-warning-text: #fff;
+    --info-warning-foreground: #6E6AF6;
+    --info-danger-text: #fff;
+    --info-help-text: #fff;
+    --status-warning-text: #000;
+    --background-mentioned: #0c0909;
+    --background-mentioned-hover: #706bff58;
+    --background-message-hover: #04040512;
+    --scrollbar-auto-thumb: #6E6AF6;
+    --brand-experiment: #6E6AF6;
+    --brand-experiment-hover: #6f6af64d;
+    --brand-experiment-560: #6E6AF6;
+    --channels-default: #757575;
+    --selected-indicator: #97ffa5;
+    --hover-indicator: #ffffff;
+    --font: 'Whitney';
+    --code-font: 'Source Code Pro';
+    --boost-bar: none;
+}
+
+/* Made By The Commie Axolotl */ (Original Creator)
+/* Recreated By Bxrlin */
