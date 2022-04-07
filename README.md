@@ -1,6 +1,5 @@
 # Xsthetic Theme for BetterDiscord
-A Smooth and Dark Aesthetic recreated theme. (Original Created by TheCommieAxolotl) (Theme Name - Ultra)
-
+A Smooth and Dark Aesthetic recreated theme.
 ## Screenshots
 
 <img width="1080" alt="Home" src="https://user-images.githubusercontent.com/96011252/146198823-0fd4787e-4dcf-4bcf-bd53-30eb236eb8ac.png">
