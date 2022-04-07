@@ -1,4 +1,4 @@
-# Trashesthetic Theme for BetterDiscord
+# Xsthetic Theme for BetterDiscord
 A Smooth and Dark Aesthetic recreated theme. (Original Created by TheCommieAxolotl) (Theme Name - Ultra)
 
 ## Screenshots
